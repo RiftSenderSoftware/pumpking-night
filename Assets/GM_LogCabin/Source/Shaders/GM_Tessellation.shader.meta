@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3df4de0cd26ef1f4a8be2c69e2489e4f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _DisplacementTex1: {fileID: 2800000, guid: 9789d23040cb1fb45ad60392430c3c15, type: 3}
+  - _Normal: {fileID: 2800000, guid: 662d72b6ec210cf4cbeec2b4d3cb8b2a, type: 3}
+  - _Albedo1: {fileID: 2800000, guid: 662d72b6ec210cf4cbeec2b4d3cb8b2a, type: 3}
+  - _MTSA: {fileID: 2800000, guid: 662d72b6ec210cf4cbeec2b4d3cb8b2a, type: 3}
+  - _AO: {fileID: 2800000, guid: 662d72b6ec210cf4cbeec2b4d3cb8b2a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155658
+  packageName: Log Cabin
+  packageVersion: 1.3
+  assetPath: Assets/GM_LogCabin/Source/Shaders/GM_Tessellation.shader
+  uploadId: 452637
